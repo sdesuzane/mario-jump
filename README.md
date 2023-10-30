@@ -4,7 +4,7 @@ Este é um projeto de um jogo simples onde o Mário precisa pular um tubo em mov
 
 ## Funcionalidades
 
-- Controlar o Super Mário para pular o tubo em movimento.
+- Controlar o Mário para pular o tubo em movimento.
 - Detectar colisões entre o Mário e o tubo.
 - Reiniciar o jogo após perder.
 
